@@ -2,8 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
-const endpoint = "";
-const subscriptionKey = "";
+const endpoint = "https://ocr140705.cognitiveservices.azure.com/";
+const subscriptionKey = "34K3RpNb2hZgUwbaXY534Mk3AzKpsjqGVZ9cNpTtJc3AYYNbA7DmJQQJ99BAACYeBjFXJ3w3AAAFACOG8XjR";
 
 
 // Function to get all image file paths

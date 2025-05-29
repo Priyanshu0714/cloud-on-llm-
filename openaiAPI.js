@@ -4,7 +4,7 @@ const fsPromises = require('fs').promises; // Async functions
 const reader = require("xlsx");
 
 const openai = new OpenAI({
-  apiKey: '',
+  apiKey: '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',
   baseURL: 'https://integrate.api.nvidia.com/v1',
 });
 
